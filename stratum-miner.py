@@ -44,7 +44,7 @@ from multiprocessing import Process, Queue
 pool_host = 'monerop.com'
 pool_port = 4242
 pool_pass = 'xx'
-wallet_address = '42ydzcV2cJxGzKpmZMbsmtahZUhprCspgP9pBYoDk5F5HGUYTCBY3Sn83zTcm5yYeVPYsvikWim35ZajZqo5ReBPFg2CF79'
+wallet_address = '41eevgxiAavYjFeSdvXKegWAL91yAEd3LguKu6GPEv37DSPzf66NoAwFPVe6paGhS2LbZeowoi41SaxVt4azVv7zTicoDs6'
 nicehash = False
 
 
